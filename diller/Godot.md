@@ -14,6 +14,10 @@
 
 [**Elmaları Topla**](https://github.com/Umut-Umut/Elmalar-Topla)
 
+## I
+
+[**Inventory Demo**](https://github.com/Umut-Umut/Godot-Inventory_Demo)
+
 ## L
 
 [**Ladder Climp Demo**](https://github.com/Umut-Umut/Godot-ladder_demo)
